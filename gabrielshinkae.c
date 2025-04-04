@@ -119,3 +119,4 @@ int main() {
 ## 5️⃣ Referências
 - DAMAS, Luís. **Linguagem C**. Lisboa: FCA, 2009.
 - TANENBAUM, Andrew S. **Estruturas de Dados em C**. Pearson, 2015.
+- NUMERO DO LIVRO :70889
